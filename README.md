@@ -6,7 +6,7 @@ Aspiring Full Stack Developer
 
 I started seriously learning to code at the beginning of 2022 and found my passion for working with projects from the ground. I am very familiar with the JavaScript ecosystem and look forward to exploring outside that range very soon.
 
-**Checkout my portfolio:**https://anisulhaque.netlify.app/
+<p><b>Checkout my portfolio: </b> https://anisulhaque.netlify.app/<p>
 
 * 😄  Pronouns: He/Him
 * 🌍  I'm based in United States
